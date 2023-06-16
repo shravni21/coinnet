@@ -7,7 +7,7 @@ import './App.css';
 
 const App = () => {
   return (
-    <div className="app">
+    <div className="app" >
       <div className="navbar">
         <Navbar />
       </div>
@@ -24,12 +24,12 @@ const App = () => {
         </Layout>
         <div className="footer">
           <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>
-            Cryptoverse © 2023 | All Rights Reserved.
+            Coinnet © 2023 | All Rights Reserved.
           </Typography.Title>
           <Space>
             <Link to="/">Home</Link>
-            <Link to="/">Cryptocurrencies</Link>
-            <Link to="/news">News</Link>
+            <Link to="/">Altcoins</Link>
+            <Link to="/news">Crypto News</Link>
           </Space>
         </div>
       </div>
