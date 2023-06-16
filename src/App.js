@@ -29,7 +29,7 @@ const App = () => {
           <Space>
             <Link to="/">Home</Link>
             <Link to="/">Altcoins</Link>
-            <Link to="/news">Crypto News</Link>
+            <Link to="/news">Crypto-News</Link>
           </Space>
         </div>
       </div>
