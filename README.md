@@ -1,4 +1,4 @@
-# Coinnet 🪙💰![GitHub watchers](https://img.shields.io/github/watchers/shravni21/coinnet?style=social)
+# Coinnet 🪙💰
 
 
 A React Application Unveiling Comprehensive Cryptocurrency Data, Crypto Market Analysis, and Trending Crypto News, Empowered by Redux Toolkit, Ant Design, and Rapid API Integration.
